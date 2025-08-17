@@ -1,1 +1,1 @@
-# personalized-Dashboard
+# Personal-dashboard
